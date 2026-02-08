@@ -12,6 +12,7 @@ My initial hypothesis was that strict residency verification would lead to signi
 
 ## 2. Data & Methodology
 ** Data Generation: Created a synthetic business dataset using Python in Google Colab with AI assistance to simulate various user response scenarios (churn, retention, plan switching).
+```mermaid
 graph TD
     A[Google Colab: Data Generation] --> B[Python: Data Cleaning & Transformation]
     B --> C[Google Drive: Store Cleaned Data]
@@ -27,7 +28,7 @@ graph TD
     D
     E
     end
-
+```
 ### Data Pipeline Flow
 Step 1: Data Generation (Python/Colab) – Generated synthetic business datasets using Python and AI to simulate user response scenarios
 Step 2: Data Cleaning (Python/Pandas) – Performed all data transformations, including timestamp normalization and churn flag creation, entirely in Python to ensure data integrity
