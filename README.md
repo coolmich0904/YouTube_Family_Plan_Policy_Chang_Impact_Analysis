@@ -17,16 +17,21 @@ My initial hypothesis was that strict residency verification would lead to signi
 **Spoiler:** All three hypotheses were proven wrong by the data.
 
 ## 2. Data & Methodology
+
 **Data Strategy:**
+Since YouTube's subscriber data is proprietary, I used AI-assisted Python to generate a realistic synthetic dataset modeling various user responses to the policy change. This approach is increasingly common in data analytics for privacy-sensitive industries and competitive analysis.
 
-Since YouTube's subscriber data is proprietary, I used AI-assisted Python to generate a realistic synthetic dataset modeling various user responses to the policy change. This approach is increasingly common in data analytics for:
-- Privacy-sensitive industries (finance, healthcare, HR)
-- Competitive analysis where real data is inaccessible  
-- Scenario modeling and "what-if" business analysis
+**Development Approach:**
+The Python scripts in `/notebooks/` were developed with AI assistance (Claude/ChatGPT), as I'm still building my Python coding skills. However, the analytical direction and technical decisions were human-driven.
 
-The focus of this project is demonstrating end-to-end analytical thinking—from problem framing to actionable insights—rather than having access to actual corporate data.
+**My Technical Ownership:**
+* **Schema Design:** Defined the data structure with key fields (user_id, signup_date, policy_response, churn_flag) to enable realistic churn scenario modeling
+* **Business Logic Validation:** Verified AI-generated code correctly categorized user responses (complete exit vs. plan switch vs. retention) and applied conservative baseline assumptions  
+* **Data Quality Assurance:** Identified and resolved datetime format loss during Colab-to-Excel export, ensuring dashboard calculations worked correctly
+* **Results Interpretation:** Analyzed outputs to validate they aligned with real-world business behavior patterns
 
-**Data Generation:** Created synthetic business dataset...
+**Data Generation:** Created synthetic business dataset using Python in Google Colab
+
 ```mermaid
 graph TD
     A[Google Colab: Data Generation] --> B[Python: Data Cleaning & Transformation]
