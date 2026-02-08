@@ -107,9 +107,9 @@ This approach isolates the policy's true impact from normal subscriber fluctuati
 
 ## 5. Tools & Technologies
 
-- Python (pandas, json)
+- Python (pandas)
 - Google Colab
-- Microsoft Excel (pivot tables, charts, conditional formatting)
+- Microsoft Excel (pivot tables, charts)
 
 ## 6. Future Improvements
 
