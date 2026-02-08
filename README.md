@@ -7,7 +7,7 @@ This project analyzes the gap between social media sentiment and actual user beh
 
 ## 1. Motivation & Hypothesis
 
-...My initial hypothesis was that strict residency verification would lead to significant churn.
+My initial hypothesis was that strict residency verification would lead to significant churn.
 
 **Research Hypotheses:**
 - **H1:** Social media backlash translates into measurable churn (>20% within first month)
