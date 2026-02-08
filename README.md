@@ -91,7 +91,31 @@ This approach isolates the policy's true impact from normal subscriber fluctuati
   </tr>
 </table>
 
+## 5. Tools & Technologies
 
+- Python (pandas, json)
+- Google Colab
+- Microsoft Excel (pivot tables, charts, conditional formatting)
+
+## 6. Future Improvements
+
+- Incorporate pre-policy historical data to enable "before vs. after" comparisons with dynamic time-series slicers
+- Add interactive slicers for filtering by outcome type and time period
+- Expand dataset to include user demographics and engagement metrics
+- Compare this case with other platform policy changes to identify broader patterns
+
+## 7. Limitations
+
+- **Synthetic Data Variability:** The random data generation process produces slightly different results on each run. While specific numbers may vary (e.g., retention rate ranging from 87-91%), the overall trend and business conclusions remain consistent across iterations.
+- **Lack of Historical Data:** Due to the absence of pre-policy data, dynamic time-series slicers for comparative analysis could not be implemented in this version. The dashboard currently presents the complete 5-month post-policy period, which effectively demonstrates the policy's impact but limits temporal flexibility.
+
+## 8. Files in This Repository
+
+**`/data/`** - Synthetic dataset (JSON and cleaned CSV)
+**`/notebooks/`** - Python data generation and cleaning scripts
+**`/dashboard/`** - Excel dashboard file
+**`/images/`** - Dashboard screenshots and visualizations
+**`README.md`** - Project documentation
 
 
 
