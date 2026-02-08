@@ -10,9 +10,9 @@ This project analyzes the gap between social media sentiment and actual user beh
 My initial hypothesis was that strict residency verification would lead to significant churn.
 
 **Research Hypotheses:**
-- **H1:** Social media backlash translates into measurable churn (>20% within first month)
-- **H2:** Revenue loss from policy enforcement outweighs retention benefits
-- **H3:** User migration to individual plans is minimal (<10%)
+- **Hypo 1:** Social media backlash translates into measurable churn (>20% within first month)
+- **Hypo 2:** Revenue loss from policy enforcement outweighs retention benefits
+- **Hypo 3:** User migration to individual plans is minimal (<10%)
 
 **Spoiler:** All three hypotheses were proven wrong by the data.
 
