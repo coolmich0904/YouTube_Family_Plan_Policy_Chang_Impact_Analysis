@@ -31,7 +31,7 @@ The Python scripts in `/notebooks/` were developed with AI assistance (Claude/Ch
 * **Results Interpretation:** Analyzed outputs to validate they aligned with real-world business behavior patterns
 
 ### **Data Generation:** Created synthetic business dataset using Python in Google Colab
-
+<p></p>
 
 ```mermaid
 graph TD
