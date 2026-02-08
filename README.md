@@ -39,7 +39,7 @@ Saved cleaned data to Google Drive, then created exploratory visualizations in P
 ### Sample Data Structure
 
 <p align="center">
-  <img src="./images/cleaned_data_python" width="100%" title="Cleaned Data">
+  <img src="./images/cleaned_data_python.png" width="100%" title="Cleaned Data">
 </p>
 
 ### Visualization: Built an interactive Excel dashboard to track conversion rates, churn rates, and cumulative revenue trends using pivot tables, charts, and conditional formatting.
@@ -55,7 +55,7 @@ Saved cleaned data to Google Drive, then created exploratory visualizations in P
     </td>
     <td align="center" style="border: none; width: 50%;">
       <b>[ After: Fixed Datetime Format ]</b><br>
-      <img src="./images/cleaned_data_python.png" width="100%">
+      <img src="./images/fixed_date.png" width="100%">
     </td>
   </tr>
 </table>
@@ -77,6 +77,18 @@ This approach isolates the policy's true impact from normal subscriber fluctuati
 - **Low Complete Churn: Only 11% fully cancelled their subscriptions.
 - **Key Learning: Vocal online reactions are often poor predictors of actual user behavior at scale.
 
+<table style="width: 100%; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td align="center" style="border: none; width: 50%;">
+      <b>[ Wrong Datetime format during the transfer ]</b><br>
+      <img src="./images/churn_conversion_chart.png" width="100%">
+    </td>
+    <td align="center" style="border: none; width: 50%;">
+      <b>[ After: Fixed Datetime Format ]</b><br>
+      <img src="./images/revenue_trend.png" width="100%">
+    </td>
+  </tr>
+</table>
 
 
 
