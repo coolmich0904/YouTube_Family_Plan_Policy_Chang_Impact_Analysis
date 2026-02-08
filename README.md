@@ -18,19 +18,20 @@ My initial hypothesis was that strict residency verification would lead to signi
 
 ## 2. Data & Methodology
 
-**Data Strategy:**
+### **Data Strategy:**
 Since YouTube's subscriber data is proprietary, I used AI-assisted Python to generate a realistic synthetic dataset modeling various user responses to the policy change. This approach is increasingly common in data analytics for privacy-sensitive industries and competitive analysis.
 
-**Development Approach:**
+### **Development Approach:**
 The Python scripts in `/notebooks/` were developed with AI assistance (Claude/ChatGPT), as I'm still building my Python coding skills. However, the analytical direction and technical decisions were human-driven.
 
-**My Technical Ownership:**
+### **My Technical Ownership:**
 * **Schema Design:** Defined the data structure with key fields (user_id, signup_date, policy_response, churn_flag) to enable realistic churn scenario modeling
 * **Business Logic Validation:** Verified AI-generated code correctly categorized user responses (complete exit vs. plan switch vs. retention) and applied conservative baseline assumptions  
 * **Data Quality Assurance:** Identified and resolved datetime format loss during Colab-to-Excel export, ensuring dashboard calculations worked correctly
 * **Results Interpretation:** Analyzed outputs to validate they aligned with real-world business behavior patterns
 
-**Data Generation:** Created synthetic business dataset using Python in Google Colab
+### **Data Generation:** Created synthetic business dataset using Python in Google Colab
+
 
 ```mermaid
 graph TD
