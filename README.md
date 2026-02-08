@@ -5,14 +5,28 @@ This project analyzes the gap between social media sentiment and actual user beh
   <img src="./images/Excel_Dashboard.png" width="90%" title="Dashboard Overview">
 </p>
 
-## 1. Motivation
-The project started with a simple observation:** while online communities were filled with complaints and threats to cancel subscriptions following **YouTube's 2025 family plan residency policy update**, I wanted to verify whether this noise actually translated into business impact. (I was also personally affected—a family member with a different address lost access!)
-My initial hypothesis was that strict residency verification would lead to significant churn.
-**Spoiler:** The data told a completely different story.
+## 1. Motivation & Hypothesis
+
+...My initial hypothesis was that strict residency verification would lead to significant churn.
+
+**Research Hypotheses:**
+- **H1:** Social media backlash translates into measurable churn (>20% within first month)
+- **H2:** Revenue loss from policy enforcement outweighs retention benefits
+- **H3:** User migration to individual plans is minimal (<10%)
+
+**Spoiler:** All three hypotheses were proven wrong by the data.
 
 ## 2. Data & Methodology
-### Data Generation: Created a synthetic business dataset using Python in Google Colab with AI assistance to simulate various user response scenarios (churn, retention, plan switching).
+**Data Strategy:**
 
+Since YouTube's subscriber data is proprietary, I used AI-assisted Python to generate a realistic synthetic dataset modeling various user responses to the policy change. This approach is increasingly common in data analytics for:
+- Privacy-sensitive industries (finance, healthcare, HR)
+- Competitive analysis where real data is inaccessible  
+- Scenario modeling and "what-if" business analysis
+
+The focus of this project is demonstrating end-to-end analytical thinking—from problem framing to actionable insights—rather than having access to actual corporate data.
+
+**Data Generation:** Created synthetic business dataset...
 ```mermaid
 graph TD
     A[Google Colab: Data Generation] --> B[Python: Data Cleaning & Transformation]
