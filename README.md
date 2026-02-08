@@ -30,16 +30,17 @@ graph TD
 ```
 
 ### Data Pipeline Flow
-- **Step 1: Data Generation (Python/Colab) – Generated synthetic business datasets using Python and AI to simulate user response scenarios
-- **Step 2: Data Cleaning (Python/Pandas) – Performed all data transformations, including timestamp normalization and churn flag creation, entirely in Python to ensure data integrity
-- **Step 3: Storage (Google Drive) – Saved the fully cleaned datasets to Google Drive for secure and organized data management
-- **Step 4: Visualization (Excel) – Imported the pre-cleaned data into Excel to build an interactive dashboard using Pivot Tables and Charts
+- **Step 1: Data Generation (Python/Colab)** – Generated synthetic business datasets using Python and AI to simulate user response scenarios
+- **Step 2: Data Cleaning (Python/Pandas)** – Performed all data transformations, including timestamp normalization and churn flag creation, entirely in Python to ensure data integrity
+- **Step 3: Storage (Google Drive)** – Saved the fully cleaned datasets to Google Drive for secure and organized data management
+- **Step 4: Visualization (Excel)** – Imported the pre-cleaned data into Excel to build an interactive dashboard using Pivot Tables and Charts
 
 Saved cleaned data to Google Drive, then created exploratory visualizations in Python before moving to Excel.
+
 ### Sample Data Structure
 
 <p align="center">
-  <img src="./images/cleaned_data_python.png" width="100%" title="Cleaned Data">
+  <img src="./images/cleaned_data_python.png" width="50%" title="Cleaned Data">
 </p>
 
 ### Visualization: Built an interactive Excel dashboard to track conversion rates, churn rates, and cumulative revenue trends using pivot tables, charts, and conditional formatting.
@@ -63,19 +64,19 @@ Saved cleaned data to Google Drive, then created exploratory visualizations in P
 ## 3. Assumptions & Parameters
 To ensure a conservative and realistic analysis:
 
-- **Pricing: $15.99/month (base $13.99 + regional taxes/platform fees)
-- **Monthly baseline: 10 new user acquisitions, 4 natural churn (pre-policy behavior)
-- **Analysis period: 5 months (Sep 2025 - Jan 2026)
+- **Pricing**: $15.99/month (base $13.99 + regional taxes/platform fees)
+- **Monthly baseline**: 10 new user acquisitions, 4 natural churn (pre-policy behavior)
+- **Analysis period**: 5 months (Sep 2025 - Jan 2026)
 
 This approach isolates the policy's true impact from normal subscriber fluctuations.
 
 ## 4. Key Insights
 
-- **High Retention: 89.2% of users remained within the YouTube ecosystem, contradicting social media sentiment.
-- **Revenue Defense: 26.4% of affected users downgraded to individual plans rather than leaving entirely, preserving revenue.
-- **Positive Financial Impact: Cumulative revenue reached $2,094.69 over five months post-policy change, with consistent growth from month 1.
-- **Low Complete Churn: Only 11% fully cancelled their subscriptions.
-- **Key Learning: Vocal online reactions are often poor predictors of actual user behavior at scale.
+- **High Retention**: 89.2% of users remained within the YouTube ecosystem, contradicting social media sentiment.
+- **Revenue Defense**: 26.4% of affected users downgraded to individual plans rather than leaving entirely, preserving revenue.
+- **Positive Financial Impact**: Cumulative revenue reached $2,094.69 over five months post-policy change, with consistent growth from month 1.
+- **Low Complete Churn**: Only 11% fully cancelled their subscriptions.
+- **Key Learning**: Vocal online reactions are often poor predictors of actual user behavior at scale.
 
 <table style="width: 100%; border-collapse: collapse;">
   <tr style="border: none;">
