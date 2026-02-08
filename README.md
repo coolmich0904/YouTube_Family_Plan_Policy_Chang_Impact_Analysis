@@ -111,11 +111,11 @@ This approach isolates the policy's true impact from normal subscriber fluctuati
 
 ## 8. Files in This Repository
 
-**`/data/`** - Synthetic dataset (JSON and cleaned CSV)
-**`/notebooks/`** - Python data generation and cleaning scripts
-**`/dashboard/`** - Excel dashboard file
-**`/images/`** - Dashboard screenshots and visualizations
-**`README.md`** - Project documentation
+- **`/data/`** - Synthetic dataset (JSON and cleaned CSV)
+- **`/notebooks/`** - Python data generation and cleaning scripts
+- **`/dashboard/`** - Excel dashboard file
+- **`/images/`** - Dashboard screenshots and visualizations
+- **`README.md`** - Project documentation
 
 
 
