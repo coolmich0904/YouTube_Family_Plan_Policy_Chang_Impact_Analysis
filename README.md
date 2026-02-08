@@ -25,8 +25,8 @@ Since YouTube's subscriber data is proprietary, I used AI-assisted Python to gen
 The Python scripts in `/notebooks/` were developed with AI assistance (Claude/ChatGPT), as I'm still building my Python coding skills. However, the analytical direction and technical decisions were human-driven.
 
 ### **My Technical Ownership:**
-* **Schema Design:** Defined the data structure with key fields (user_id, signup_date, policy_response, churn_flag) to enable realistic churn scenario modeling
-* **Business Logic Validation:** Verified AI-generated code correctly categorized user responses (complete exit vs. plan switch vs. retention) and applied conservative baseline assumptions  
+* **Schema Design:** Defined the data structure with key fields (user_id, action_date, is_after_flag, final_outcome) to enable realistic churn scenario modeling
+* **Business Logic Validation:** Verified AI-generated code correctly categorized user responses (complete exit vs. plan switch) and applied conservative baseline assumptions  
 * **Data Quality Assurance:** Identified and resolved datetime format loss during Colab-to-Excel export, ensuring dashboard calculations worked correctly
 * **Results Interpretation:** Analyzed outputs to validate they aligned with real-world business behavior patterns
 
