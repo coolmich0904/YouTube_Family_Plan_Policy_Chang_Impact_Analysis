@@ -141,7 +141,6 @@ Implemented an interactive dashboard to visualize user churn trends and practice
 
 - **`/data/`** - Synthetic dataset (JSON and cleaned CSV)
 - **`/notebooks/`** - Python data generation and cleaning scripts
-- **`/dashboard/`** - Excel dashboard file
 - **`/images/`** - Dashboard screenshots and visualizations
 - **`README.md`** - Project documentation
 
