@@ -94,7 +94,7 @@ This approach isolates the policy's true impact from normal subscriber fluctuati
 Implemented an interactive dashboard to visualize user churn trends and practice advanced DAX modeling
 
 <p align="center">
-  <img src="./images/Excel_Dashboard.png" width="90%" title="Dashboard Overview">
+  <img src="./images/Youtube_churn_analysis_powerBI.png" width="90%" title="Dashboard Overview">
 </p>
 
 ## 5. Key Insights
