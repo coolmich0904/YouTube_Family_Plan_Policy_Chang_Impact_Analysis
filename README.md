@@ -90,7 +90,14 @@ To ensure a conservative and realistic analysis:
 
 This approach isolates the policy's true impact from normal subscriber fluctuations.
 
-## 4. Key Insights
+## 4. Power BI Dashboard
+Implemented an interactive dashboard to visualize user churn trends and practice advanced DAX modeling
+
+<p align="center">
+  <img src="./images/Excel_Dashboard.png" width="90%" title="Dashboard Overview">
+</p>
+
+## 5. Key Insights
 
 - **High Retention**: 89.2% of users remained within the YouTube ecosystem, contradicting social media sentiment.
 - **Revenue Defense**: 26.4% of affected users downgraded to individual plans rather than leaving entirely, preserving revenue.
@@ -111,25 +118,26 @@ This approach isolates the policy's true impact from normal subscriber fluctuati
   </tr>
 </table>
 
-## 5. Tools & Technologies
+## 6. Tools & Technologies
 
 - Python (pandas)
 - Google Colab
 - Microsoft Excel (pivot tables, charts)
+- Power BI (DAX, Data Visualization)
 
-## 6. Future Improvements
+## 7. Future Improvements
 
 - Incorporate pre-policy historical data to enable "before vs. after" comparisons with dynamic time-series slicers
 - Add interactive slicers for filtering by outcome type and time period
 - Expand dataset to include user demographics and engagement metrics
 - Compare this case with other platform policy changes to identify broader patterns
 
-## 7. Limitations
+## 8. Limitations
 
 - **Synthetic Data Variability:** The random data generation process produces slightly different results on each run. While specific numbers may vary (e.g., retention rate ranging from 87-91%), the overall trend and business conclusions remain consistent across iterations.
 - **Lack of Historical Data:** Due to the absence of pre-policy data, dynamic time-series slicers for comparative analysis could not be implemented in this version. The dashboard currently presents the complete 5-month post-policy period, which effectively demonstrates the policy's impact but limits temporal flexibility.
 
-## 8. Files in This Repository
+## 9. Files in This Repository
 
 - **`/data/`** - Synthetic dataset (JSON and cleaned CSV)
 - **`/notebooks/`** - Python data generation and cleaning scripts
