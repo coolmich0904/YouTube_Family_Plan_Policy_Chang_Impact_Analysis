@@ -1,0 +1,520 @@
+user_id,action_date,is_after_flag,status,final_outcome,is_churned
+95607efe-7147-4558-b587-b35d3a3c4e20,11/19/2025,TRUE,Cancelled,Switch to Individual,1
+704b34c8-ef84-47b0-8408-e5f9e66d5056,11/29/2025,TRUE,Cancelled,Complete Exit,1
+8d3cc877-c916-4868-9be1-1fdef544b45e,11/3/2025,TRUE,Active,Stayed,0
+387084c7-b22e-4ec5-89cb-cc41bc2a8a9b,12/16/2025,TRUE,Active,Stayed,0
+0183d188-58d0-4703-9d3d-6c78593d2ae3,9/28/2025,TRUE,Active,Stayed,0
+fcc25181-8f2a-48b5-a889-6fc7687ff0de,1/5/2026,TRUE,Active,Stayed,0
+f984e961-1d26-4471-853b-eaa6f05deaa7,11/22/2025,TRUE,Cancelled,Switch to Individual,1
+ccdb7598-d980-4341-b295-14dde57726b2,9/2/2025,TRUE,Cancelled,Complete Exit,1
+fe6acab0-9ca0-41d4-872a-05e362033284,2/1/2026,TRUE,Active,Stayed,0
+971ac222-b90e-4cec-920f-1f874d27ad97,9/24/2025,TRUE,Active,Stayed,0
+adb37d9b-3f83-4c0a-bb48-f6e99b4b7cca,12/14/2025,TRUE,Active,Stayed,0
+031ae59b-a56e-4e8f-9bf8-3e667aedfc99,10/29/2025,TRUE,Active,Stayed,0
+37c3bf83-46ae-472a-9c2d-a3f16030b14f,12/10/2025,TRUE,Active,Stayed,0
+70d36047-0025-4a26-88c4-fdb2c97a6683,12/10/2025,TRUE,Active,Stayed,0
+b87a0792-cf88-4624-b60f-93a41c494d25,1/2/2026,TRUE,Active,Stayed,0
+e07e8f62-8deb-4f05-b1e7-613f577a041c,12/6/2025,TRUE,Cancelled,Switch to Individual,1
+6cc720ec-207e-4ffd-83dc-7d41400f233c,9/8/2025,TRUE,Active,Stayed,0
+8e84e14b-6c0d-4f49-b9a9-adf94670204b,1/31/2026,TRUE,Active,Stayed,0
+a7b6bd57-79e5-4866-8d1c-268c76714d30,1/12/2026,TRUE,Active,Stayed,0
+95343210-8e14-4a60-8ced-e6274ff9fd4e,1/24/2026,TRUE,Active,Stayed,0
+16c2a232-cc1e-45a0-a2f6-1331ebbdab10,1/22/2026,TRUE,Active,Stayed,0
+55dc1a26-78ff-4117-8b67-cb50559584cc,1/3/2026,TRUE,Active,Stayed,0
+d2289829-6b15-40bc-9a24-8a257874c516,12/4/2025,TRUE,Active,Stayed,0
+eec84ced-369c-4207-be9c-8bcd2eb76885,2/1/2026,TRUE,Active,Stayed,0
+2ce947da-c68f-441e-8bcd-c67faf55ca11,11/17/2025,TRUE,Active,Stayed,0
+cd294031-8f69-480f-bc2a-1fc6a3c1c9e8,10/4/2025,TRUE,Active,Stayed,0
+36c54012-92b9-4ace-bfa5-9cd53cc8f853,1/10/2026,TRUE,Cancelled,Switch to Individual,1
+6b4ad645-6d44-46ac-a518-84a917f6d878,1/2/2026,TRUE,Active,Stayed,0
+11f48376-7fef-478c-b1c1-5bd0690465c0,9/30/2025,TRUE,Active,Stayed,0
+f108df6b-c128-4170-8ef7-8c97fed39716,11/11/2025,TRUE,Active,Stayed,0
+9214fddc-27c6-40fe-85eb-f8d4d709fb4e,1/31/2026,TRUE,Active,Stayed,0
+2881897d-9b0c-4150-9d92-ca74f373cb10,12/12/2025,TRUE,Active,Stayed,0
+d240c959-4dae-4d56-bfd8-a016d5228c69,12/5/2025,TRUE,Cancelled,Switch to Individual,1
+0497e827-cbe5-4b21-8523-d0f72d5189df,12/30/2025,TRUE,Active,Stayed,0
+ca20afba-7ab3-45dd-b561-bb0301df86fc,11/24/2025,TRUE,Active,Stayed,0
+c3f099c7-f259-47c5-aef8-2e3ffa469ce8,10/26/2025,TRUE,Active,Stayed,0
+a84f9ee9-facd-4cfd-9a6a-db01e736a83c,10/10/2025,TRUE,Cancelled,Complete Exit,1
+31c028eb-a338-4d0c-95f3-5d8dc7245785,11/4/2025,TRUE,Cancelled,Switch to Individual,1
+55aa6fe9-3611-4bfb-a905-14fede0f0bcf,1/9/2026,TRUE,Active,Stayed,0
+8d81791f-99ed-4dc6-9a20-52443bd98735,11/11/2025,TRUE,Cancelled,Switch to Individual,1
+5d904496-6c30-479c-ac80-7faef8eeb232,11/21/2025,TRUE,Cancelled,Switch to Individual,1
+38b1dacc-b4f1-42ff-bd83-341c5112dd6e,9/9/2025,TRUE,Cancelled,Switch to Individual,1
+bc375a96-e86d-4d9a-b627-11e6a8e36bae,10/16/2025,TRUE,Active,Stayed,0
+ec909a95-ded2-4aa7-b79f-4992777910f5,11/26/2025,TRUE,Active,Stayed,0
+586bce40-d2d2-41dc-969d-185e7d0e3bb6,9/1/2025,TRUE,Active,Stayed,0
+0da50000-dad6-4265-a420-39f6e1518890,1/4/2026,TRUE,Cancelled,Complete Exit,1
+73d8ee3b-605a-4305-8904-c37fd8bfd346,1/26/2026,TRUE,Active,Stayed,0
+773a3c10-7712-4498-9e29-d1f260a703dc,12/8/2025,TRUE,Active,Stayed,0
+70379db1-79a9-4e9e-8ba3-1034cfbd6033,9/1/2025,TRUE,Active,Stayed,0
+a8e2779c-9c97-435d-91f9-980afc6e6190,10/26/2025,TRUE,Cancelled,Complete Exit,1
+d5772f35-9008-4fdc-8f02-4cbee3001d85,9/23/2025,TRUE,Cancelled,Complete Exit,1
+47f4e289-dcbd-42a7-83c0-99bfbf8ae11c,9/20/2025,TRUE,Active,Stayed,0
+d5e590ef-181e-4457-be8d-0a80dde5b9d6,11/22/2025,TRUE,Cancelled,Switch to Individual,1
+7540d930-1098-4662-8369-7575f2549802,10/9/2025,TRUE,Active,Stayed,0
+f2ef762f-b72e-48d6-9a9c-60df3e8cc653,1/25/2026,TRUE,Active,Stayed,0
+ac619a4b-6c4e-4f07-96aa-f321cacdc7f8,11/3/2025,TRUE,Active,Stayed,0
+9913807b-989e-40c4-946c-5f591448ae13,12/19/2025,TRUE,Active,Stayed,0
+88b202f4-4df5-4b9d-9fd4-4e962d11c23b,12/21/2025,TRUE,Cancelled,Complete Exit,1
+4f2ed570-3c37-4a5b-afc8-d6c61a940a3b,9/2/2025,TRUE,Active,Stayed,0
+aeed5737-410e-4aff-a28e-00c4e6c25391,12/30/2025,TRUE,Active,Stayed,0
+ee40274d-7411-4e84-86b4-968602577308,11/11/2025,TRUE,Active,Stayed,0
+19223893-8d53-4bfe-ba99-e4e35e0daafc,1/29/2026,TRUE,Active,Stayed,0
+f3de6da1-7815-476e-a478-10655525da58,12/22/2025,TRUE,Active,Stayed,0
+9da39b06-6914-4f5f-bed5-67161339f9fe,12/1/2025,TRUE,Active,Stayed,0
+f734a853-c116-4b7a-954e-ce5836d2bd18,11/19/2025,TRUE,Cancelled,Switch to Individual,1
+6e9f40de-8ec3-4a3c-b367-26bf1691d51f,1/30/2026,TRUE,Active,Stayed,0
+45c2614f-d004-488e-b168-3c02124b9574,9/4/2025,TRUE,Active,Stayed,0
+3c4d01fd-7d87-4ad0-a54d-0451956ba521,2/5/2026,TRUE,Cancelled,Complete Exit,1
+94ce8d61-99aa-4688-8010-8d38f70f8748,10/20/2025,TRUE,Active,Stayed,0
+0b664f34-3140-46e4-9b5b-31a583cfb8ce,11/4/2025,TRUE,Cancelled,Switch to Individual,1
+8abdc803-ca94-4c35-a99c-3e36a8b275f1,9/24/2025,TRUE,Cancelled,Switch to Individual,1
+cd365f02-5b03-4c69-8901-36ffbc0a0935,12/25/2025,TRUE,Active,Stayed,0
+6cffa81d-d8cb-4b2e-8c3f-01a0ce330e67,1/1/2026,TRUE,Active,Stayed,0
+6f5c8356-2b16-4a04-9575-75ed196d3219,9/30/2025,TRUE,Cancelled,Switch to Individual,1
+a38f63cb-a386-4214-9bed-43fca51271eb,10/14/2025,TRUE,Active,Stayed,0
+87f016f9-c2d3-4dd1-813c-bd49c4ee68dc,11/10/2025,TRUE,Cancelled,Switch to Individual,1
+f8ae226a-cb3d-4473-a1cd-0474878c7e25,9/29/2025,TRUE,Active,Stayed,0
+0c7576e9-0400-4cb3-92c8-b4e69d497df6,12/17/2025,TRUE,Cancelled,Switch to Individual,1
+aff9fd5f-3c01-44da-9116-c0af40f054c2,12/14/2025,TRUE,Cancelled,Switch to Individual,1
+daa0a26b-d558-4e30-b407-0f2f3dfe87ae,10/23/2025,TRUE,Active,Stayed,0
+3711f927-5701-4f81-bad1-cd9df0c033e0,10/3/2025,TRUE,Active,Stayed,0
+b96f23c0-bd73-4af5-9253-a519e2134899,11/20/2025,TRUE,Active,Stayed,0
+92ac2372-4b9b-44be-9b76-7203ad6c5980,1/8/2026,TRUE,Cancelled,Switch to Individual,1
+cdd0c062-6683-4bbf-ba0a-4bc11c0969c6,9/24/2025,TRUE,Cancelled,Switch to Individual,1
+9c788c3b-8f80-4a59-b50c-f61b36157586,1/24/2026,TRUE,Active,Stayed,0
+bfc768e9-97c5-4c1d-861b-3ed33217c8f1,1/30/2026,TRUE,Active,Stayed,0
+1ecb1a36-0cd6-4b68-bc1c-a80a616f1e72,12/12/2025,TRUE,Active,Stayed,0
+1f08f581-2633-49ff-a301-048a98cc2fce,9/14/2025,TRUE,Active,Stayed,0
+a7f3ece6-29e7-4e04-aec2-8362ec94b705,9/18/2025,TRUE,Active,Stayed,0
+99672f9c-c835-42c0-9d33-612d38269358,12/27/2025,TRUE,Cancelled,Switch to Individual,1
+fab6bfc8-cf4d-499c-9ef2-6fd7b0029381,1/14/2026,TRUE,Cancelled,Switch to Individual,1
+3e8ef6be-bb89-463b-b18e-f03777dacca1,10/20/2025,TRUE,Active,Stayed,0
+8c8f208c-10e8-4e42-a0dd-5f4be18a3088,11/8/2025,TRUE,Cancelled,Switch to Individual,1
+28af8fcd-ca6f-4eb2-b247-4e113d27928a,1/1/2026,TRUE,Active,Stayed,0
+300cb485-4b71-4e76-86e9-550d8a3479e1,1/29/2026,TRUE,Active,Stayed,0
+65aadaa1-fba3-4ae0-b84f-1c44b82d8572,12/6/2025,TRUE,Cancelled,Switch to Individual,1
+aee437e7-61c7-411f-8357-b0a9dc6425fc,12/2/2025,TRUE,Active,Stayed,0
+94fcaa1d-76fc-4317-abd6-0e15364bd4f0,1/20/2026,TRUE,Cancelled,Switch to Individual,1
+b31768a6-18c3-4229-9f50-06ca538a7603,10/13/2025,TRUE,Cancelled,Switch to Individual,1
+efbd616a-670e-4ba2-8243-ff032cfc0c4b,11/20/2025,TRUE,Cancelled,Switch to Individual,1
+441f0574-a0ff-438d-b6d6-398db38d8089,10/16/2025,TRUE,Active,Stayed,0
+6103abd1-a406-4cbd-a6f1-8fa593cc5b4c,12/3/2025,TRUE,Cancelled,Complete Exit,1
+b64a9b67-6c67-47f0-a9b6-ba7e91609d42,9/18/2025,TRUE,Active,Stayed,0
+77ab6a0f-c191-4d00-b5e4-804b961976a8,1/23/2026,TRUE,Cancelled,Complete Exit,1
+1b1e683e-4be8-4423-9e70-befc27a5a401,10/19/2025,TRUE,Active,Stayed,0
+0ef8e431-471d-45c2-8908-81cd24df9041,11/19/2025,TRUE,Active,Stayed,0
+87429fdf-fc04-446a-b33c-29f5e7d0ea26,10/16/2025,TRUE,Active,Stayed,0
+09efe606-934c-46b6-bcd7-4bd7f8e26cbc,9/8/2025,TRUE,Active,Stayed,0
+10d21e3c-b8b2-4626-b243-168e2d8b40c5,9/2/2025,TRUE,Cancelled,Switch to Individual,1
+ce1dc3f7-bb97-4e0e-b947-8565a29a3b2f,11/15/2025,TRUE,Cancelled,Switch to Individual,1
+28327b0d-9424-45b1-b4a1-0aa00e24929f,1/7/2026,TRUE,Active,Stayed,0
+ebdfca0f-047a-4f94-a4ae-0665e0b5cb54,10/17/2025,TRUE,Active,Stayed,0
+a17c0496-514d-4455-b464-9ec958d48b20,12/4/2025,TRUE,Active,Stayed,0
+451cb288-8083-4203-8de0-a747be8e0283,11/3/2025,TRUE,Cancelled,Switch to Individual,1
+9f610009-ea15-4baf-9845-e9453663a28c,11/30/2025,TRUE,Active,Stayed,0
+17a17fbf-fcc1-4f3c-83c2-e40c4a419083,10/2/2025,TRUE,Cancelled,Switch to Individual,1
+81985c8b-c1f5-48d8-b4e2-71d7c61e9e56,9/6/2025,TRUE,Active,Stayed,0
+281c70ea-fbe7-4007-8398-9ad382e7a0af,10/22/2025,TRUE,Active,Stayed,0
+35f1d1ce-467b-43e1-9066-d7b221b768d2,12/18/2025,TRUE,Active,Stayed,0
+27dc09aa-40e2-4112-bdca-9d0820f8871f,11/10/2025,TRUE,Active,Stayed,0
+21a32089-7c16-44a2-9408-a0644a565855,10/17/2025,TRUE,Active,Stayed,0
+44ef8076-dc12-45e3-88b3-86f5989497a4,10/12/2025,TRUE,Cancelled,Complete Exit,1
+eeb011fe-6b65-474c-ae96-b55c4420b827,11/2/2025,TRUE,Cancelled,Complete Exit,1
+fe5f6ced-23c5-42e7-86af-cf6c261f9211,12/30/2025,TRUE,Active,Stayed,0
+23fc9151-d65d-4fd7-bd27-171e1c1bb34b,12/8/2025,TRUE,Active,Stayed,0
+e2a01ac4-01ce-4c05-b028-5ed82b3c6f52,1/30/2026,TRUE,Cancelled,Complete Exit,1
+4a664dca-aa6d-45cc-8d1a-6c262f0c172b,11/24/2025,TRUE,Cancelled,Switch to Individual,1
+be6e5c1b-6613-4f66-bffa-426f27f6908b,12/25/2025,TRUE,Active,Stayed,0
+485aad78-ae1f-437c-bab4-371e70729961,10/5/2025,TRUE,Active,Stayed,0
+1990b5c3-8a15-4c67-8b3a-d9526e77e71b,9/3/2025,TRUE,Active,Stayed,0
+804b32d1-09d8-4a34-a977-ca59b89510a1,12/19/2025,TRUE,Cancelled,Complete Exit,1
+563fc844-486c-48e6-8ceb-2aebcb1731bc,2/4/2026,TRUE,Active,Stayed,0
+1a99e5ff-85e3-435d-bb56-1b0e43ad65f7,12/15/2025,TRUE,Active,Stayed,0
+76c2c564-5119-4109-97fc-974bf3d4036b,12/31/2025,TRUE,Active,Stayed,0
+fb28a046-4813-4575-a45e-35f4f548b36f,9/22/2025,TRUE,Cancelled,Complete Exit,1
+314b041f-1ae6-44c5-a6cb-8e6069114fed,11/11/2025,TRUE,Active,Stayed,0
+bd843ab7-4dea-4ab0-a04c-7d97fd77517e,12/16/2025,TRUE,Active,Stayed,0
+dcdcd777-4e30-4339-a015-af6ab0ca261d,1/12/2026,TRUE,Active,Stayed,0
+33816354-0baa-4a3e-b586-b92da8ce3f0d,1/27/2026,TRUE,Cancelled,Switch to Individual,1
+6263ad4c-efbd-46da-8608-190b3b1c31a4,10/27/2025,TRUE,Active,Stayed,0
+1d163bce-dc47-4b66-b63c-77977ac1589d,10/23/2025,TRUE,Active,Stayed,0
+ad6bb857-cb53-442a-867a-bc8cd7de1fd4,1/25/2026,TRUE,Active,Stayed,0
+e0d8df41-1614-45ec-976c-accc83f7f1e5,10/12/2025,TRUE,Active,Stayed,0
+52fc543c-1a12-4c9a-82da-da5dc192b39a,11/9/2025,TRUE,Cancelled,Switch to Individual,1
+d1a06104-6be5-4054-ab12-21b6f9f61e6d,1/7/2026,TRUE,Active,Stayed,0
+2506eb15-e415-42b7-87b8-782c70c14e21,12/11/2025,TRUE,Active,Stayed,0
+8c1d5cf8-52d3-41d5-8be8-f358c96e8279,2/3/2026,TRUE,Active,Stayed,0
+826b5986-6862-4d34-96d2-3a47249e2c75,2/1/2026,TRUE,Active,Stayed,0
+89367bbd-3099-4a75-b739-f22cda12da84,9/10/2025,TRUE,Cancelled,Complete Exit,1
+5b0292a9-74e3-4f94-a413-99f39fa7ca41,11/22/2025,TRUE,Cancelled,Switch to Individual,1
+fd4c9e45-8a60-499e-82f5-c3813a5b3a57,12/27/2025,TRUE,Cancelled,Switch to Individual,1
+b428296e-9ef2-4147-909f-5600d2236eb1,1/27/2026,TRUE,Cancelled,Switch to Individual,1
+5e1c0ffc-fe4c-471c-9551-c15846dc3b15,9/25/2025,TRUE,Cancelled,Complete Exit,1
+2f346b4d-b796-4a43-b43e-7ab8eee1b5ab,11/11/2025,TRUE,Active,Stayed,0
+8fc9c500-3753-45ab-bf15-20d16d4b7ef2,10/2/2025,TRUE,Active,Stayed,0
+13bebeb8-44bb-4fcc-88d4-9e985bd0a98b,11/10/2025,TRUE,Active,Stayed,0
+49c30dd3-1867-47d5-bdc7-ae9bc2a222af,11/2/2025,TRUE,Active,Stayed,0
+89c74ba9-1f4d-41e4-a31b-3a34a768031c,1/13/2026,TRUE,Active,Stayed,0
+fe6b5f88-b1dd-4830-8fc7-e7c954e08a76,10/21/2025,TRUE,Cancelled,Switch to Individual,1
+db2cc0ac-758b-4e43-928a-0b02bd5182fe,11/2/2025,TRUE,Active,Stayed,0
+bdbefb22-e388-4153-871b-19c4e012d8b0,1/16/2026,TRUE,Cancelled,Switch to Individual,1
+7a08490e-e10f-48c6-aaca-2fdab8b968d7,12/12/2025,TRUE,Cancelled,Switch to Individual,1
+fa573325-565f-4144-be03-ebb85fdf2c39,10/12/2025,TRUE,Cancelled,Complete Exit,1
+910789f9-6e68-4cea-b8b9-6a543d0b6fc4,11/20/2025,TRUE,Cancelled,Switch to Individual,1
+a1dd8d48-2d6e-4d98-8e4d-44829ebf3106,12/1/2025,TRUE,Cancelled,Switch to Individual,1
+0b38d1e9-0991-435d-9083-4d55a34ce570,9/2/2025,TRUE,Cancelled,Switch to Individual,1
+65b18290-f8ac-4a7e-8140-6bf15c861e6c,11/11/2025,TRUE,Active,Stayed,0
+dac1f5c8-6ae0-4e2c-b57b-bb03df257c1c,1/30/2026,TRUE,Cancelled,Switch to Individual,1
+5944701d-15c2-46d4-82e6-94a6542a1c8b,9/9/2025,TRUE,Cancelled,Switch to Individual,1
+95d780f5-32ce-4854-9216-a48fd1c22257,10/7/2025,TRUE,Active,Stayed,0
+21ed00f9-b81b-47a3-8d4e-4bfe607e60af,12/27/2025,TRUE,Cancelled,Switch to Individual,1
+fd6b8a99-6a20-45b3-83cf-04a188a87887,12/26/2025,TRUE,Active,Stayed,0
+67707032-7c55-4312-ac5f-e45118da2a11,9/15/2025,TRUE,Active,Stayed,0
+6c149720-6b6e-4c85-a217-bfb4ba53ec27,11/26/2025,TRUE,Cancelled,Switch to Individual,1
+281db63a-1a27-4068-8158-00718bbdc6a5,11/11/2025,TRUE,Cancelled,Switch to Individual,1
+27ab70de-8d6e-47de-9bc3-b86e8c8f1b98,9/6/2025,TRUE,Active,Stayed,0
+7981c79d-73a8-4c6c-a7d6-d7258ad918f0,2/2/2026,TRUE,Active,Stayed,0
+6a64f50c-d599-4368-9a00-55aafac875f7,12/18/2025,TRUE,Cancelled,Complete Exit,1
+5f0b9e0d-3d77-4d18-b8c3-9163c40849de,9/27/2025,TRUE,Cancelled,Complete Exit,1
+3506da02-8f96-4752-ae62-e0b77909b014,12/1/2025,TRUE,Active,Stayed,0
+b8a3e52a-89a7-48a0-bb5d-7db48de27c1b,10/27/2025,TRUE,Cancelled,Switch to Individual,1
+35e0489e-5ceb-4634-84d4-41002bbc353c,10/18/2025,TRUE,Active,Stayed,0
+e3e6c140-ec6f-44f9-b86f-3984cd801040,11/9/2025,TRUE,Cancelled,Switch to Individual,1
+8f724eb0-8038-4274-b2dc-a85b672c8525,1/29/2026,TRUE,Active,Stayed,0
+0d122bd2-ed45-4b74-813c-cb123ca50688,12/1/2025,TRUE,Cancelled,Switch to Individual,1
+12781fa1-0fd0-44de-acaf-02d681946efa,1/10/2026,TRUE,Cancelled,Complete Exit,1
+53a0744c-6a0d-4bb2-93a5-53ffba4f1c88,10/25/2025,TRUE,Cancelled,Switch to Individual,1
+c6b703cc-fa99-4005-95a7-3574c7eb3b85,11/30/2025,TRUE,Active,Stayed,0
+9c85f4fa-d464-4a3b-8ad7-923a266df129,2/3/2026,TRUE,Cancelled,Switch to Individual,1
+43a6a6b1-85cd-40d2-ae33-489d87bbf070,1/3/2026,TRUE,Active,Stayed,0
+e08231ea-f8f8-4225-afb0-4e4e527df044,1/17/2026,TRUE,Active,Stayed,0
+3daa2829-310b-4827-9d00-fb19f7d5dce0,11/2/2025,TRUE,Active,Stayed,0
+8c2cbe61-be23-4816-a57b-1be916b7568f,12/1/2025,TRUE,Active,Stayed,0
+0184fc06-f1c9-45b2-afe2-bd27bc324892,12/17/2025,TRUE,Active,Stayed,0
+817906e0-39b7-489a-b470-49eece61a561,11/6/2025,TRUE,Cancelled,Switch to Individual,1
+5f0b26d6-a6ff-4657-9ba7-566741121337,9/15/2025,TRUE,Active,Stayed,0
+e17163f5-86f5-4cd2-93cc-414ca2287377,12/26/2025,TRUE,Active,Stayed,0
+e8e64cae-b6a5-4272-af84-096a23566ffe,10/11/2025,TRUE,Active,Stayed,0
+58ece693-ae30-44f8-b1ff-af1ecde828c6,12/30/2025,TRUE,Cancelled,Switch to Individual,1
+42f63c39-6683-4bf9-be42-521e6c22be5d,12/19/2025,TRUE,Active,Stayed,0
+812df6e5-026c-4dd6-ae4d-d173ff339212,12/4/2025,TRUE,Active,Stayed,0
+3e5895e3-e54b-45c9-a063-055dc3a972a8,11/14/2025,TRUE,Active,Stayed,0
+3e62784e-988f-4278-88eb-038868c1cced,9/19/2025,TRUE,Active,Stayed,0
+4ea3e2f4-c704-4a90-b47f-fd421bbc3c30,11/12/2025,TRUE,Active,Stayed,0
+f4e17bd1-cc1a-4711-8078-fc560fe8796d,11/1/2025,TRUE,Active,Stayed,0
+68586ca4-4146-46dd-aff1-a7d39399ddc1,10/16/2025,TRUE,Cancelled,Complete Exit,1
+cf77c933-500f-47e7-9f99-2f4d8efb900f,11/21/2025,TRUE,Cancelled,Switch to Individual,1
+4a5213ee-7d99-42b7-b125-64497f434f81,12/31/2025,TRUE,Active,Stayed,0
+c63d349b-446b-4d3f-9835-99818dfe64d7,9/30/2025,TRUE,Cancelled,Complete Exit,1
+edb40df5-4768-48ea-bd83-089c120c4795,10/25/2025,TRUE,Cancelled,Complete Exit,1
+1b768b21-86d3-4487-b5f8-7c1edf7ddef6,9/26/2025,TRUE,Active,Stayed,0
+7a1c688c-7f8f-40f6-a7d1-1303200e79aa,11/7/2025,TRUE,Active,Stayed,0
+d6fcaea8-e874-487d-bcd8-a6054ecf15cf,11/25/2025,TRUE,Active,Stayed,0
+e0d26493-dbc0-465f-8828-db6621a946e9,12/1/2025,TRUE,Cancelled,Complete Exit,1
+1461e5ce-d390-4403-8c8c-59b8da3545f1,11/7/2025,TRUE,Active,Stayed,0
+582a2340-f8cc-4b9a-a219-81db9919880e,2/4/2026,TRUE,Cancelled,Complete Exit,1
+5c0df7a6-4337-435d-a8a4-ae4e35842bc5,9/15/2025,TRUE,Cancelled,Complete Exit,1
+8e16e75e-f753-45f7-8af7-5c5f56a0a5e7,11/5/2025,TRUE,Active,Stayed,0
+7c52bae1-d933-4ac6-bca6-b27d9be510d0,9/14/2025,TRUE,Cancelled,Switch to Individual,1
+89a8b3dd-b1b9-41e7-b48a-42401b422a44,9/7/2025,TRUE,Active,Stayed,0
+fab557a1-5b5a-45c0-bfe5-f570a47df4ea,1/12/2026,TRUE,Active,Stayed,0
+9421cba7-f102-42dc-9367-ade38440d1b1,9/20/2025,TRUE,Cancelled,Complete Exit,1
+feb1a4dd-7852-4784-af88-ef4878419a01,12/6/2025,TRUE,Active,Stayed,0
+ae85080b-a216-41f0-9d42-62ca3117ada7,12/19/2025,TRUE,Active,Stayed,0
+0f6cce04-009d-4757-919b-57ed3dc39706,9/3/2025,TRUE,Cancelled,Complete Exit,1
+6e8dacfa-3a07-4af0-8dbb-ec3ff4b4c2da,2/2/2026,TRUE,Cancelled,Switch to Individual,1
+3f5c2dfc-8444-428e-bf05-87a1f1313a04,10/17/2025,TRUE,Active,Stayed,0
+3f88c19a-8ade-4133-8939-2a2711da621e,12/21/2025,TRUE,Active,Stayed,0
+e9974334-716a-493f-97a5-5f4d76345176,12/5/2025,TRUE,Active,Stayed,0
+ce345480-4c1a-410b-bb0e-19bb60afd4ea,1/5/2026,TRUE,Active,Stayed,0
+1c0d49da-88f7-4136-82a7-f33fd5ab8f3a,10/31/2025,TRUE,Active,Stayed,0
+ccf6335c-b32e-477e-a2dc-07cf51a32278,1/31/2026,TRUE,Active,Stayed,0
+37b04bf8-7a0a-4eee-ae55-9b573c144167,1/26/2026,TRUE,Active,Stayed,0
+40d1dae1-116d-4247-85a8-4c42fc1e735e,11/4/2025,TRUE,Active,Stayed,0
+eed9c7cb-02f9-4a2c-b962-b3f5a9befa62,1/14/2026,TRUE,Active,Stayed,0
+883a59eb-7c6f-4535-8750-07b4a38d95cf,10/16/2025,TRUE,Active,Stayed,0
+5eef74ba-43a9-49a9-9fa5-dfaf24fc4615,9/14/2025,TRUE,Cancelled,Switch to Individual,1
+c29cf3b4-8e19-49ea-95dc-3387f05739e7,1/17/2026,TRUE,Cancelled,Switch to Individual,1
+5ce669f0-5c75-45ac-bda0-f06e9276470f,2/4/2026,TRUE,Active,Stayed,0
+3e8f510d-13ee-4087-aa1b-87b82b833290,9/14/2025,TRUE,Active,Stayed,0
+b2e95987-83a1-4e8f-ade1-c52debcb9b1b,9/18/2025,TRUE,Cancelled,Switch to Individual,1
+fe79ae8f-11f8-474c-ab01-e94bb872bf42,10/16/2025,TRUE,Active,Stayed,0
+0974d5a6-cf0b-4ac4-81a0-85b8187c9a95,1/13/2026,TRUE,Active,Stayed,0
+7d8945b7-30f4-4ed1-a82b-1655ff3dcf3b,10/27/2025,TRUE,Active,Stayed,0
+95a60bb2-e346-4979-b98a-f20b755241b1,10/17/2025,TRUE,Cancelled,Switch to Individual,1
+e5b47b48-42ce-4a8e-85f6-810cbd7f2291,9/24/2025,TRUE,Active,Stayed,0
+7dc6f812-e628-4f6e-b48c-4fd375d4d74a,12/27/2025,TRUE,Active,Stayed,0
+bec624b6-911a-429a-9751-cd0de8308f78,1/13/2026,TRUE,Active,Stayed,0
+fc8fc179-34a5-479c-8bc9-9981292982c5,1/12/2026,TRUE,Active,Stayed,0
+f4106bea-de07-4b05-b663-8b98188ee570,10/2/2025,TRUE,Active,Stayed,0
+8ba25888-86a7-426a-8015-a01edaf92e70,9/4/2025,TRUE,Active,Stayed,0
+62490599-be4f-433d-b885-79ac0e14efaf,9/22/2025,TRUE,Active,Stayed,0
+ce9388d0-2bed-4e69-aebd-6bc342caf383,9/15/2025,TRUE,Active,Stayed,0
+8c563dd6-bb75-48ba-9cbe-196a372526b2,1/3/2026,TRUE,Active,Stayed,0
+157a42ee-c071-4412-8862-992e62ea2b4e,12/14/2025,TRUE,Cancelled,Switch to Individual,1
+1a18dc54-1ca0-4ada-8ae8-8646bb27660d,1/12/2026,TRUE,Cancelled,Complete Exit,1
+4e041ff2-9d3d-48d8-a874-4cc68ecc4e1d,11/23/2025,TRUE,Active,Stayed,0
+79f943df-ceae-4fb6-8a1e-7a4b781bb888,1/20/2026,TRUE,Active,Stayed,0
+78d08f32-2334-489f-9ec6-eb484c46ccfe,11/28/2025,TRUE,Active,Stayed,0
+dbda4481-7823-404e-b010-0b774d27e9b4,2/1/2026,TRUE,Active,Stayed,0
+a7ccfe2a-9a8f-46b7-91bd-dcbb35eccb60,12/26/2025,TRUE,Active,Stayed,0
+ead9126f-ec1d-495c-9b38-23699c4fcb16,10/5/2025,TRUE,Active,Stayed,0
+f57790ef-6fb1-44c9-b46d-8af35b0d0908,12/19/2025,TRUE,Cancelled,Complete Exit,1
+f50378c5-5502-43d1-8214-e7d7045c2276,11/18/2025,TRUE,Active,Stayed,0
+948cc8cb-b8f3-4fd4-b7a2-3bfeb35b338a,9/8/2025,TRUE,Active,Stayed,0
+352698b6-b12e-4092-9043-8e2e140173c7,2/5/2026,TRUE,Active,Stayed,0
+54778a50-7d68-47c1-bf3c-1d067acdcb48,11/7/2025,TRUE,Cancelled,Switch to Individual,1
+d6e0da06-91b9-4c2b-8523-8ea9a6042154,1/6/2026,TRUE,Active,Stayed,0
+6a805d6f-e4c0-4464-bf64-583cbce5e1fc,10/10/2025,TRUE,Active,Stayed,0
+4d9ebd99-829e-482e-8ac4-33c704c95537,12/1/2025,TRUE,Active,Stayed,0
+78624eca-4327-4ec0-bc89-4a21cb9b14eb,12/10/2025,TRUE,Active,Stayed,0
+f479e55c-4d16-406b-b115-2946c570b292,11/30/2025,TRUE,Active,Stayed,0
+52b5c6e9-f9d0-4f4c-81d2-b31db8434308,12/16/2025,TRUE,Active,Stayed,0
+5a4f67e0-1e5c-42ed-88df-1fd68034b0e2,10/13/2025,TRUE,Cancelled,Complete Exit,1
+45486fab-0804-40d6-820b-6755e055d5b0,9/4/2025,TRUE,Cancelled,Switch to Individual,1
+7debc6a0-db07-4208-92cd-bc240894ba59,11/15/2025,TRUE,Cancelled,Complete Exit,1
+18297be5-06c8-4ba8-a557-5b0b7d1bd04b,10/10/2025,TRUE,Active,Stayed,0
+6416d535-1ed2-4355-beff-0684f101b99c,10/23/2025,TRUE,Active,Stayed,0
+fbc40c29-cc13-4e6b-9849-92833e6085be,9/28/2025,TRUE,Cancelled,Switch to Individual,1
+58850f92-fdb3-432d-8737-e2491544c053,9/1/2025,TRUE,Cancelled,Switch to Individual,1
+624ec9a0-cb44-4669-bc0e-097abc047f05,1/21/2026,TRUE,Active,Stayed,0
+01a3bbfe-2352-4c01-a233-ee1e5f31596b,12/5/2025,TRUE,Cancelled,Switch to Individual,1
+3caf2d65-f86a-4dbc-a5fd-536c12ffd90a,12/23/2025,TRUE,Cancelled,Complete Exit,1
+976026e9-cc1f-48fe-9a0c-bb0ffd75ef40,1/6/2026,TRUE,Cancelled,Switch to Individual,1
+c92e27d3-1a6f-4452-b2b9-eab8e0f12cc9,9/2/2025,TRUE,Active,Stayed,0
+6f7b3752-4697-4e6d-b398-a68fe46ccbb4,12/31/2025,TRUE,Active,Stayed,0
+5771e959-445a-4bcd-890a-162f0238154a,12/19/2025,TRUE,Active,Stayed,0
+b71a9b23-77e5-4dfd-aea8-b7fb67d44128,10/4/2025,TRUE,Active,Stayed,0
+1072a6a4-804c-4c4f-9b88-5baac22d0a98,10/24/2025,TRUE,Active,Stayed,0
+aa662313-083e-4109-8541-2d7d21abf771,12/11/2025,TRUE,Cancelled,Complete Exit,1
+25e5aa8b-6c83-48e7-8510-841855837f16,10/23/2025,TRUE,Active,Stayed,0
+956636a4-9cec-4952-8bf5-a897cc481fa1,12/29/2025,TRUE,Cancelled,Switch to Individual,1
+1e1dc73d-5115-4b49-9355-c6c95c2853d7,11/22/2025,TRUE,Active,Stayed,0
+09e5ef88-7de0-4cf2-8db3-f0501655a4af,11/14/2025,TRUE,Cancelled,Switch to Individual,1
+7be191bd-39ef-4a31-9148-005a6d405867,1/14/2026,TRUE,Active,Stayed,0
+b1a64961-6edf-455d-aed5-89f895914a0f,9/5/2025,TRUE,Cancelled,Switch to Individual,1
+86bda9d0-1ad5-486a-8360-5855d7a47ce6,12/19/2025,TRUE,Active,Stayed,0
+031e3339-b9f3-4b64-b969-0e512b2473d6,11/28/2025,TRUE,Cancelled,Switch to Individual,1
+f644d107-3628-498c-807e-626a43a3f0b7,9/17/2025,TRUE,Active,Stayed,0
+5ed9a962-6bfa-4a46-a3c0-459e2a3fe343,9/11/2025,TRUE,Active,Stayed,0
+92277698-afe1-440e-9026-10f59abcb40f,11/28/2025,TRUE,Cancelled,Complete Exit,1
+f4d5315c-8101-44b5-819b-19f045b55852,9/14/2025,TRUE,Active,Stayed,0
+2b13cc1a-c505-4750-8a28-23afcdfaf0fb,11/17/2025,TRUE,Active,Stayed,0
+dd88792a-b059-4ce0-bed0-c5b6dcc55dd1,1/18/2026,TRUE,Active,Stayed,0
+4578e7be-3a95-4cc7-ae72-f8764a7b7803,12/17/2025,TRUE,Cancelled,Switch to Individual,1
+6415a71c-4134-429f-b816-e527fbd4a359,1/1/2026,TRUE,Active,Stayed,0
+346ef908-8717-4f4b-aa35-1c8281b3078d,12/8/2025,TRUE,Cancelled,Complete Exit,1
+847547d0-c15b-4648-bb03-64c9814fb48c,10/3/2025,TRUE,Active,Stayed,0
+78527cf7-3840-4dbe-bb48-e897a0a55dcf,2/5/2026,TRUE,Active,Stayed,0
+fc47a404-e893-43da-b55d-50d641b60be3,12/8/2025,TRUE,Active,Stayed,0
+371f898f-82db-4923-ab5e-cc6eb1855fcc,2/4/2026,TRUE,Cancelled,Switch to Individual,1
+9c4594d0-5650-41c6-8782-9bb688fd2753,9/20/2025,TRUE,Active,Stayed,0
+a26e8a44-9678-4244-93a6-99766ecebf97,1/28/2026,TRUE,Cancelled,Switch to Individual,1
+2cac9618-9c04-4117-8579-6cd44335ac6e,1/30/2026,TRUE,Active,Stayed,0
+d0b41ed5-8c49-4971-82d2-326d66e96f2e,10/25/2025,TRUE,Active,Stayed,0
+b45912fc-ea3d-4134-b9b4-c7c64f9d646d,1/28/2026,TRUE,Cancelled,Switch to Individual,1
+4008f58a-d231-46c9-b40d-983dbc187e17,11/12/2025,TRUE,Cancelled,Switch to Individual,1
+b9165997-e82d-4bd1-a1dd-f763dad14d3b,12/23/2025,TRUE,Cancelled,Switch to Individual,1
+636ce2ae-d680-4420-9212-86c77651e712,1/16/2026,TRUE,Cancelled,Switch to Individual,1
+d7eefcc7-aa17-417b-b6e7-def5891acdca,10/26/2025,TRUE,Cancelled,Complete Exit,1
+b6c81603-fdda-49c5-9187-4e249925ae8a,11/30/2025,TRUE,Active,Stayed,0
+eda21d79-8469-430c-81a5-b0f93f399124,11/4/2025,TRUE,Active,Stayed,0
+ce8549a5-4abb-4c87-88a9-5303b6fedee8,11/14/2025,TRUE,Active,Stayed,0
+bb6324e0-9448-4a2e-ac14-47da4685748b,10/11/2025,TRUE,Active,Stayed,0
+504d2e04-f9f1-4e35-b0bc-61b099b3a05a,11/3/2025,TRUE,Active,Stayed,0
+3eec2068-1898-4ac9-8a93-3f83349f7ed6,1/28/2026,TRUE,Active,Stayed,0
+1f87c85a-e530-4c94-8d99-e1409db3b084,9/11/2025,TRUE,Cancelled,Complete Exit,1
+66c56867-ea5f-4b98-803e-0c6658c6faef,12/3/2025,TRUE,Active,Stayed,0
+3fcdf27b-ec2d-4ce3-93ee-17fbca3febdf,1/11/2026,TRUE,Cancelled,Complete Exit,1
+6fb3c920-e58e-43c8-9111-cd8c79ef2759,2/5/2026,TRUE,Cancelled,Switch to Individual,1
+d6f0ea15-5fca-4053-817f-12d05ab19bd0,9/2/2025,TRUE,Active,Stayed,0
+5ce78f80-4ef9-4b96-a9df-cc590e234783,12/23/2025,TRUE,Active,Stayed,0
+5ac8a5db-96b0-4a0e-af2e-581e57674092,12/25/2025,TRUE,Cancelled,Switch to Individual,1
+e6da5dd5-0c07-40cb-90eb-6a825c8a87a3,10/9/2025,TRUE,Cancelled,Switch to Individual,1
+d2889f57-91a9-47cc-993e-db5086b23cdd,1/20/2026,TRUE,Active,Stayed,0
+2d7ee160-3b46-437f-9e09-0ee489310df0,2/1/2026,TRUE,Active,Stayed,0
+8464f285-9c0a-4823-b8f2-ae11aa3559f3,9/4/2025,TRUE,Cancelled,Switch to Individual,1
+6fe741d1-3d33-4d2d-bb3c-af5db4382f0e,12/21/2025,TRUE,Cancelled,Switch to Individual,1
+8ed75083-f602-4d0f-b430-29f2eab72d09,9/27/2025,TRUE,Active,Stayed,0
+5fde08d0-9989-41a5-8fa2-969a47a8d732,12/21/2025,TRUE,Active,Stayed,0
+232691e5-13b3-44e2-b332-adc20629a4a4,1/7/2026,TRUE,Active,Stayed,0
+ce9a1d85-a748-47ba-9e33-67c8228ee279,1/6/2026,TRUE,Active,Stayed,0
+35b66c1c-1615-42dd-91fb-d589e51c5c0a,1/16/2026,TRUE,Active,Stayed,0
+1c81c4c8-e4e9-482a-8ded-863088f13aad,12/24/2025,TRUE,Active,Stayed,0
+61028b83-f8f4-4f59-8986-6e07390e334f,1/4/2026,TRUE,Active,Stayed,0
+631b58e5-3954-41b3-9d09-ea377ad19394,9/15/2025,TRUE,Active,Stayed,0
+ddd63be3-8d42-4844-971b-eb3f7360632c,10/24/2025,TRUE,Active,Stayed,0
+78a640a9-aad2-46e5-af81-cb6f128db605,1/15/2026,TRUE,Active,Stayed,0
+2d4b064a-c535-4c19-bf7f-fe82bf7d0d2d,11/28/2025,TRUE,Active,Stayed,0
+5ef75240-1ef7-496f-aee9-3361b94ae270,1/28/2026,TRUE,Active,Stayed,0
+1c2eea73-9b90-4191-b309-2dbd28533686,9/10/2025,TRUE,Active,Stayed,0
+c1723a83-6053-44a8-be72-042765028b70,11/9/2025,TRUE,Cancelled,Complete Exit,1
+6c6d42ca-b4ff-4cee-820c-83f0117d4dc3,12/3/2025,TRUE,Active,Stayed,0
+26bfc5c9-f8f5-4068-bd39-f137ae9d7cd7,10/17/2025,TRUE,Active,Stayed,0
+e83ce64f-7560-4266-9f1b-2ac68a6e7d95,1/13/2026,TRUE,Active,Stayed,0
+5f99a8f4-f756-4602-9b04-2df88e312ce5,9/30/2025,TRUE,Active,Stayed,0
+dde491aa-f382-46e2-86d9-7f19013a9a07,10/9/2025,TRUE,Active,Stayed,0
+d6d6b2c0-6563-4e09-b467-76008f36edd0,1/31/2026,TRUE,Active,Stayed,0
+9ff2484a-0cdc-48c3-bfe1-b39b73b2d4b6,11/19/2025,TRUE,Cancelled,Complete Exit,1
+a237101b-2508-460e-b5d6-b938e4e2f0a5,10/1/2025,TRUE,Active,Stayed,0
+24128c78-33e7-427a-8d51-6080734f2c24,10/4/2025,TRUE,Cancelled,Switch to Individual,1
+d1ff6d6e-ec83-4f38-baa9-c1ffb7bb85d8,10/26/2025,TRUE,Cancelled,Switch to Individual,1
+27b01339-156f-4d34-a23b-fd83ebfde8c4,12/1/2025,TRUE,Active,Stayed,0
+6716bf49-1f72-4916-9677-43a154c1ee39,1/31/2026,TRUE,Active,Stayed,0
+5a1263cb-b386-4e33-b1aa-09f83940141f,10/3/2025,TRUE,Cancelled,Switch to Individual,1
+4796772a-98f9-41af-b8d4-3bf1056d5bda,9/3/2025,TRUE,Cancelled,Switch to Individual,1
+9419ab84-3ac6-4f5d-8e79-8c12c7553e87,1/23/2026,TRUE,Active,Stayed,0
+9676675d-28b2-41d2-8399-74763a1b65f1,10/13/2025,TRUE,Cancelled,Switch to Individual,1
+1a291578-1f23-4341-b656-61a290de0c20,12/6/2025,TRUE,Cancelled,Switch to Individual,1
+22acc8cd-ae0d-4fdf-962f-b268f7850b28,11/11/2025,TRUE,Active,Stayed,0
+aa84f0f6-7e53-4fd3-9de7-2be43c1f6635,1/31/2026,TRUE,Active,Stayed,0
+f58e1085-d61f-464e-8d94-687782e6730f,9/22/2025,TRUE,Cancelled,Switch to Individual,1
+24c394ee-f862-46e2-b5b8-bf01b4b9d9da,1/30/2026,TRUE,Active,Stayed,0
+4255130a-4621-4655-b0f2-d84baf7ab2c0,1/30/2026,TRUE,Active,Stayed,0
+fc7e7872-416b-420d-baf2-5e81b0d846b4,11/19/2025,TRUE,Active,Stayed,0
+8c975dfd-b2e7-4ed4-88e1-86c93c2b942e,12/17/2025,TRUE,Cancelled,Switch to Individual,1
+cee0da29-fa19-4b28-b150-6b7de6b2d086,12/8/2025,TRUE,Cancelled,Switch to Individual,1
+31e73083-95dd-46e0-a203-5c02a9715af7,1/21/2026,TRUE,Active,Stayed,0
+a45de456-4110-4ef1-864e-00adbf1124a2,10/12/2025,TRUE,Active,Stayed,0
+07dba53d-ea34-4dce-965b-dff167f0390e,9/29/2025,TRUE,Cancelled,Complete Exit,1
+0255254e-3c53-4004-9254-f3b9f9d54f73,1/19/2026,TRUE,Active,Stayed,0
+06f9b3fa-c390-4d69-b81e-e3a1d866124b,11/15/2025,TRUE,Active,Stayed,0
+e80285dd-8ba7-4f19-a915-22ca281e165a,11/18/2025,TRUE,Active,Stayed,0
+57f34220-86a3-4ab3-ba93-fb4b75e0b67c,10/26/2025,TRUE,Active,Stayed,0
+246505bb-a9b1-4727-be19-02daff452fe4,11/28/2025,TRUE,Active,Stayed,0
+0453bbae-b083-4aea-ac6b-3f19670b2c15,1/1/2026,TRUE,Active,Stayed,0
+1f17344b-b163-4970-bd2f-72b0a776ce17,9/28/2025,TRUE,Active,Stayed,0
+8cc0da06-a599-41cf-9a4b-74e7be1108ea,12/7/2025,TRUE,Cancelled,Switch to Individual,1
+d3d5da9d-a107-4e86-b3f1-1966cfb91eb8,11/25/2025,TRUE,Cancelled,Switch to Individual,1
+bfca5688-3d2e-4350-89ea-32a5ed6160eb,9/11/2025,TRUE,Active,Stayed,0
+1d3e8c6d-efbf-4e9c-82cc-9543e3fbdca0,1/21/2026,TRUE,Active,Stayed,0
+63ab4c4d-0ebd-44ad-8656-2382717c3838,12/23/2025,TRUE,Active,Stayed,0
+9768b6ca-52fb-482d-b88e-e39946e7a480,9/10/2025,TRUE,Active,Stayed,0
+6463d2e2-dcf0-4e9a-988d-c70ac2bbe43e,9/11/2025,TRUE,Cancelled,Switch to Individual,1
+0e7c5ab5-d0fe-49ac-848b-70eec1a2f2bc,12/22/2025,TRUE,Cancelled,Switch to Individual,1
+76f39114-6863-46dc-8cfd-c08681598a2f,9/26/2025,TRUE,Active,Stayed,0
+97ae3cb9-988c-4083-b438-ab3926683c31,9/27/2025,TRUE,Active,Stayed,0
+52b948ff-852f-40cb-9fd0-c667bad8d493,1/12/2026,TRUE,Active,Stayed,0
+7aa7ef9e-2506-4500-bd15-b94ba0ce6f33,10/20/2025,TRUE,Active,Stayed,0
+cb718983-4505-43bd-bd6f-9d12f283c863,12/19/2025,TRUE,Active,Stayed,0
+78ba097e-b2fd-45a3-b29c-5cfee11e077a,10/6/2025,TRUE,Active,Stayed,0
+a771cc3a-ee9d-42b6-9a1b-2888d97825ed,1/28/2026,TRUE,Active,Stayed,0
+ad6c0a3c-473b-44e3-8035-35bf8a505163,9/22/2025,TRUE,Active,Stayed,0
+1b9064b7-851b-4df7-946a-d539cb53fe8d,10/6/2025,TRUE,Cancelled,Switch to Individual,1
+32a2ecca-2bb3-4bce-8667-9eebf48fc4c0,12/2/2025,TRUE,Active,Stayed,0
+1bfd4038-25f6-49eb-ab94-0e3bcffe3762,11/7/2025,TRUE,Active,Stayed,0
+1433d7d1-f97b-46b3-8c5c-a2e415cdb817,1/2/2026,TRUE,Active,Stayed,0
+c0dba4ae-10bd-4172-80aa-78c39725135d,9/28/2025,TRUE,Active,Stayed,0
+4ad1814e-2746-4c5a-8e6f-a7e06bd73b90,1/14/2026,TRUE,Cancelled,Switch to Individual,1
+bf78a9b5-1115-4d3f-be98-42768b18202a,11/23/2025,TRUE,Active,Stayed,0
+0cde55b1-22fc-4e5a-aa3e-9c70d65235f8,1/16/2026,TRUE,Cancelled,Complete Exit,1
+3c97fec7-cad9-40bb-b491-20620f4ecb3c,10/21/2025,TRUE,Active,Stayed,0
+c7046b4b-737e-4893-aa56-bfde94078c47,12/27/2025,TRUE,Cancelled,Switch to Individual,1
+8ef192ee-a4c8-4c5c-8589-6af0562fe42e,9/9/2025,TRUE,Active,Stayed,0
+69af479d-718b-4e20-9258-f6eeabd15cbc,1/6/2026,TRUE,Cancelled,Switch to Individual,1
+15a746b5-4d2b-4515-bc70-d6c092b4e4a3,1/11/2026,TRUE,Cancelled,Switch to Individual,1
+9fb5bb21-03ab-495c-abdd-f3fb10fc79f4,1/16/2026,TRUE,Cancelled,Switch to Individual,1
+c862f840-a7a5-48d3-b14a-1c7eb12dd289,10/14/2025,TRUE,Active,Stayed,0
+684fa2a0-bfb9-498c-98b6-e4b1a126429a,10/19/2025,TRUE,Active,Stayed,0
+b22511d0-5bf0-49a3-a4fe-531fbcb8b40c,11/27/2025,TRUE,Active,Stayed,0
+0fe612ec-56f4-450a-9255-205fb52c6773,11/26/2025,TRUE,Active,Stayed,0
+9ec7036d-83d0-44e9-b57f-15d4720cc07a,10/31/2025,TRUE,Active,Stayed,0
+a9ee8b63-7d2d-4a21-9c53-ec4636ab3eaa,11/3/2025,TRUE,Cancelled,Switch to Individual,1
+0fcad92b-a264-4cc8-9ef9-700ed3a85c99,9/27/2025,TRUE,Active,Stayed,0
+c52fc0f4-0e58-4c2d-86e0-8be66c674ab8,12/19/2025,TRUE,Active,Stayed,0
+73716f3d-8677-47f8-8132-576bec33831d,9/24/2025,TRUE,Cancelled,Switch to Individual,1
+c464978b-8e6b-458d-9971-af301b8c44db,11/17/2025,TRUE,Cancelled,Switch to Individual,1
+13a4b11a-4ffe-4345-9bd7-82d89eaabffc,11/29/2025,TRUE,Cancelled,Switch to Individual,1
+250b22ca-5f44-4877-a8e7-4b44961bd320,11/1/2025,TRUE,Active,Stayed,0
+23ed99b8-778a-48a0-9efc-c1574f2d7604,12/1/2025,TRUE,Cancelled,Switch to Individual,1
+d9b4802b-db6b-4b80-8ade-2c0d0c90fee7,9/29/2025,TRUE,Active,Stayed,0
+ebcead67-0894-42db-a53b-9605be0bf1ee,11/16/2025,TRUE,Active,Stayed,0
+bb2ebc85-afb5-4d18-a794-b5a31ce27246,1/1/2026,TRUE,Cancelled,Switch to Individual,1
+5de05fce-4d61-427c-870d-104fedb5ab8e,11/5/2025,TRUE,Cancelled,Switch to Individual,1
+153b7d99-22ca-45e7-be60-b0c5cbb46f72,11/1/2025,TRUE,Cancelled,Complete Exit,1
+505b40c5-acb5-4bc9-b50d-eaee88209ef1,10/24/2025,TRUE,Cancelled,Switch to Individual,1
+ceb6b794-9db0-4795-8d53-d96ed5426c53,1/5/2026,TRUE,Active,Stayed,0
+7f8a26c2-31c3-47b5-b0c6-82d501a0151f,9/12/2025,TRUE,Cancelled,Complete Exit,1
+e08f4484-4175-4586-8caa-79bf8f19e3b9,9/7/2025,TRUE,Cancelled,Switch to Individual,1
+fd6aa662-9d53-46dd-8118-0c0f3507d8e9,12/10/2025,TRUE,Active,Stayed,0
+8eac1611-75e6-4bbd-8deb-49159fab1399,1/4/2026,TRUE,Cancelled,Switch to Individual,1
+fcb8c242-2a8f-4bea-8633-dce0ac7d4f4b,12/20/2025,TRUE,Active,Stayed,0
+abc7e4f1-ee05-46dc-b2d3-de99b2962ec1,11/27/2025,TRUE,Active,Stayed,0
+ea8a0dc4-89e0-4932-9947-22fb9f4f772e,10/1/2025,TRUE,Active,Stayed,0
+ea00063d-06e5-4493-9803-b821b6e5f7e9,2/5/2026,TRUE,Active,Stayed,0
+2f3a7972-490d-475d-b662-cdb554cb02d0,11/19/2025,TRUE,Active,Stayed,0
+7ea4ebf5-44a9-40be-88bd-989f263b680e,9/6/2025,TRUE,Active,Stayed,0
+04f1c4fa-9efd-4fc4-b865-25f380d73f0c,12/12/2025,TRUE,Active,Stayed,0
+71cb7cba-e762-4232-99e1-a3fdc6bd2da3,9/21/2025,TRUE,Active,Stayed,0
+945610f4-e9ac-454c-8ad3-163d304eeedf,1/3/2026,TRUE,Active,Stayed,0
+0d7ca5a6-6f9e-4e31-9b30-12b1f65ac5d0,1/21/2026,TRUE,Cancelled,Switch to Individual,1
+7afaab54-2f4d-4935-aafc-44ac00ec2390,12/5/2025,TRUE,Cancelled,Switch to Individual,1
+e0c40c66-7ace-4294-a315-0ab2144e253a,1/9/2026,TRUE,Cancelled,Switch to Individual,1
+431b8a9b-bc12-46cc-aa96-b63ed2aa4d12,9/4/2025,TRUE,Active,Stayed,0
+296f02ce-c8c9-44d1-bc18-e26fd8237826,2/1/2026,TRUE,Cancelled,Complete Exit,1
+1a035fb2-e4e5-4036-ae50-84a3b7441c4c,11/21/2025,TRUE,Cancelled,Switch to Individual,1
+291f16c9-6cba-4c96-a6f7-57e28a2c6d19,11/16/2025,TRUE,Cancelled,Switch to Individual,1
+477fc2ff-2dab-4c64-924b-cf5be392d219,9/16/2025,TRUE,Active,Stayed,0
+13d15676-4bf6-4c54-bcf8-7dbae0ca509b,11/20/2025,TRUE,Active,Stayed,0
+1c73432a-75e3-4300-879a-c2cb8d46958b,11/17/2025,TRUE,Cancelled,Complete Exit,1
+db073151-8106-4bfd-a433-413509f255ae,11/19/2025,TRUE,Cancelled,Switch to Individual,1
+8d6f5300-da72-4824-a494-0e99f293d809,9/4/2025,TRUE,Cancelled,Switch to Individual,1
+a3eb4da7-24d7-43ab-90b9-82a8b9e91394,1/20/2026,TRUE,Cancelled,Switch to Individual,1
+03b44c13-d3b4-4a9c-8392-ac3351b46e27,12/3/2025,TRUE,Cancelled,Switch to Individual,1
+5ab27de0-fdba-41a1-b40e-9d7f8977683a,9/5/2025,TRUE,Active,Stayed,0
+fb39bcbd-5265-4683-9211-1598dc48b5df,1/14/2026,TRUE,Active,Stayed,0
+fff1178b-a6fa-4af4-89f0-3e621fabec98,1/9/2026,TRUE,Active,Stayed,0
+f9026b78-7ff2-4ee5-a448-0b0812ac463b,1/18/2026,TRUE,Cancelled,Switch to Individual,1
+b6d78989-3a88-4d37-8b81-e127e5b27c21,11/14/2025,TRUE,Cancelled,Switch to Individual,1
+4bf38443-a32b-4e4d-a51e-5912dfe18c1f,9/24/2025,TRUE,Active,Stayed,0
+28fd0426-dd95-430d-b3a5-fc3d3df83c13,11/19/2025,TRUE,Cancelled,Switch to Individual,1
+41598ce7-d2ab-43de-91d1-b15e09acfc46,9/5/2025,TRUE,Active,Stayed,0
+d7e23df0-2067-4b09-a4b1-00a3b5128ee4,9/7/2025,TRUE,Cancelled,Switch to Individual,1
+1538fb81-765c-4fb3-aa9f-76e434efbea2,1/24/2026,TRUE,Cancelled,Switch to Individual,1
+cdc1aa2c-b9e4-4707-9074-d5cd06a66ea3,12/1/2025,TRUE,Active,Stayed,0
+8c93e067-8517-44ad-9e20-898ac7440422,9/15/2025,TRUE,Active,Stayed,0
+bc3c170d-edec-4c7b-aaea-ed6851d73b7a,12/8/2025,TRUE,Active,Stayed,0
+a40cdaa7-1370-422f-b52e-c93dc2cf5062,9/12/2025,TRUE,Active,Stayed,0
+e37b56fb-6555-4ff7-abcd-914977dab3cf,1/6/2026,TRUE,Cancelled,Complete Exit,1
+616c68ff-d1a3-4b7b-990b-cca12ac7eaf9,9/23/2025,TRUE,Cancelled,Complete Exit,1
+b465eb17-2556-498b-b579-fedcf6e66694,12/20/2025,TRUE,Active,Stayed,0
+b6eb167c-748a-4628-b80c-3e68efccffe7,1/1/2026,TRUE,Cancelled,Complete Exit,1
+d08d9484-8cfc-4ea8-bb84-4770fa031ba8,12/6/2025,TRUE,Cancelled,Switch to Individual,1
+8ba89a8c-f32a-4c85-b6dd-0672e323913b,10/30/2025,TRUE,Active,Stayed,0
+052284a0-4f30-4329-87f5-e42f5f158e0d,1/12/2026,TRUE,Active,Stayed,0
+bbfd43cc-ce0c-4315-88a2-1746560b01bf,11/13/2025,TRUE,Active,Stayed,0
+51820291-234a-4630-8ed4-37d886a05ac8,11/14/2025,TRUE,Active,Stayed,0
+3fc500a5-5265-4b9c-a343-0c49aa6816a7,12/12/2025,TRUE,Active,Stayed,0
+5baad863-c564-45a1-a70d-5a8ff1bf426d,1/29/2026,TRUE,Cancelled,Switch to Individual,1
+c777154e-66f3-46e4-95b5-d195d144d9ad,10/11/2025,TRUE,Cancelled,Switch to Individual,1
+3a5eb8e7-082d-4905-ab31-09cb2d00449c,10/2/2025,TRUE,Cancelled,Switch to Individual,1
+bd3181d4-2a37-4e0f-bdee-df5201eb85db,1/28/2026,TRUE,Active,Stayed,0
+56a5acb1-2c15-4163-be29-44212aba4269,2/2/2026,TRUE,Cancelled,Switch to Individual,1
+12fe0d35-9264-49a4-b57e-7a64ccb142b1,12/2/2025,TRUE,Cancelled,Switch to Individual,1
+fdc7dbc2-a72e-477c-bd0a-8baa818b602c,1/20/2026,TRUE,Active,Stayed,0
+a4894893-ba5f-4f70-8605-2ae0073dfb9c,9/28/2025,TRUE,Cancelled,Complete Exit,1
+07febb62-1a81-4e7d-82da-8d6fabace0b1,9/10/2025,TRUE,Active,Stayed,0
+a4326576-df6b-4101-b652-9604d7a6289f,1/17/2026,TRUE,Active,Stayed,0
+7f331b3f-aa8c-4f8a-bbfd-d41b00ded29d,9/23/2025,TRUE,Active,Stayed,0
+996fedb0-a3e0-4fc7-aaee-c65d2faef31d,12/16/2025,TRUE,Active,Stayed,0
+4bca5d6a-1969-45e9-a41b-fd33d737796f,9/3/2025,TRUE,Cancelled,Complete Exit,1
+1e816fa9-e7f1-4ce3-9871-11c0b5feecec,11/13/2025,TRUE,Active,Stayed,0
+2242ff98-023d-4b9f-bdb9-a77b938f5642,10/15/2025,TRUE,Active,Stayed,0
+fdbaaff6-48fb-436e-a0e1-14778376c13c,11/9/2025,TRUE,Active,Stayed,0
+c42a795f-fc52-44a0-90c2-e6d34adee164,9/27/2025,TRUE,Active,Stayed,0
+d410cd2b-1c47-4fe5-8b89-73f90f6874b0,12/17/2025,TRUE,Active,Stayed,0
+cdf78f5d-a057-4f1b-9fac-f6a7d0664200,10/15/2025,TRUE,Cancelled,Switch to Individual,1
+21462562-ae0c-423d-9cc2-540a8df538cf,12/1/2025,TRUE,Active,Stayed,0
+0c92866d-67c2-4442-99e9-33b993aa5657,11/14/2025,TRUE,Active,Stayed,0
+a36dca76-b0ac-42ef-b2b3-77ff35e660d6,11/9/2025,TRUE,Active,Stayed,0
+35603b38-5317-4b8e-9cc0-4523dd6ac11b,10/22/2025,TRUE,Active,Stayed,0
+189c4f5b-a098-4d90-8530-c019bc9f86f1,9/11/2025,TRUE,Cancelled,Complete Exit,1
+07f4a8e8-415c-48d4-8b3c-8e4ecf062ed6,9/3/2025,TRUE,Cancelled,Complete Exit,1
+b2fbad0d-902a-4e88-8a6b-d3bcb6ee9f58,11/6/2025,TRUE,Cancelled,Switch to Individual,1
+b0d5a24d-cf9a-49f1-9094-bd17fe237198,1/14/2026,TRUE,Cancelled,Switch to Individual,1
+f8a0794f-90f3-429c-8279-3ae3d7ee6bd6,11/2/2025,TRUE,Active,Stayed,0
+4c73d2f0-df24-40c8-b6ac-56e49b6f1d2a,11/8/2025,TRUE,Cancelled,Switch to Individual,1
+43001a6e-90de-47c9-ba9c-56cbdda21fa0,10/4/2025,TRUE,Cancelled,Complete Exit,1
+bfe21c61-b502-48bd-9975-6efa885c4b49,12/18/2025,TRUE,Active,Stayed,0
