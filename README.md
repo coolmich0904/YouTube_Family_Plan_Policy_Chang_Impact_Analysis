@@ -44,7 +44,7 @@ graph LR
     style B fill:#E8F5E9,stroke:#43A047
     style C fill:#FFF3E0,stroke:#FB8C00
     style D fill:#F3E5F5,stroke:#8E24AA
-    end
+   
 ```
 
 ### Data Pipeline Flow
