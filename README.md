@@ -39,13 +39,6 @@ graph TD
     B --> C[Google Drive: Store Cleaned Data]
     C --> D[Excel: Data Import & Verification]
     D --> E[Excel: Pivot Tables & Dashboard Visualization]
-    subgraph "Data Processing (Python/Colab)"
-    A
-    B
-    end
-    subgraph "Visualization (Excel)"
-    D
-    E
     end
 ```
 
