@@ -34,11 +34,16 @@ The Python scripts in `/notebooks/` were developed with AI assistance (Claude/Ch
 <p></p>
 
 ```mermaid
-graph TD
+graph LR
     A[Google Colab: Data Generation] --> B[Python: Data Cleaning & Transformation]
     B --> C[Google Drive: Store Cleaned Data]
     C --> D[Excel: Data Import & Verification]
     D --> E[Excel: Pivot Tables & Dashboard Visualization]
+
+    style A fill:#E3F2FD,stroke:#1E88E5
+    style B fill:#E8F5E9,stroke:#43A047
+    style C fill:#FFF3E0,stroke:#FB8C00
+    style D fill:#F3E5F5,stroke:#8E24AA
     end
 ```
 
