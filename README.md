@@ -40,10 +40,11 @@ graph LR
     C --> D[Excel: Data Import & Verification]
     D --> E[Excel: Pivot Tables & Dashboard Visualization]
 
-    style A fill:#E3F2FD,stroke:#1E88E5
-    style B fill:#E8F5E9,stroke:#43A047
-    style C fill:#FFF3E0,stroke:#FB8C00
-    style D fill:#F3E5F5,stroke:#8E24AA  
+    style A fill:#E3F2FD,stroke:#1E88E5,color:#000000
+    style B fill:#E8F5E9,stroke:#43A047,color:#000000
+    style C fill:#FFF3E0,stroke:#FB8C00,color:#000000
+    style D fill:#F3E5F5,stroke:#8E24AA,color:#000000
+    style E fill:#ECEFF1,stroke:#546E7A,color:#000000  
 ```
 
 ### Data Pipeline Flow
